@@ -5,8 +5,10 @@ using UnityEngine;
 public class CameraRotate : MonoBehaviour
 {
     GameObject targetObj;
-    public float mouseXSpeed;
-    public float mouseYSpeed;
+    public float mouseXSpeed = 1;
+    public float mouseYSpeed = 1;
+    public float rotationLimitX = 0;
+    public float rotationLimitY = 0;
     Vector3 targetPos;
     Vector3 angle;
     Vector3 primary_angle;
@@ -24,19 +26,26 @@ public class CameraRotate : MonoBehaviour
         transform.position += targetObj.transform.position - targetPos;
         targetPos = targetObj.transform.position;
         // 回転制限
+        angle.y += Input.GetAxis("Mouse X");
+        if (angle.y <= primary_angle.y - rotationLimitX)
+        {
+            angle.y = primary_angle.y - rotationLimitX;
+        }
+        if (angle.y >= primary_angle.y + rotationLimitX)
+        {
+            angle.y = primary_angle.y + rotationLimitX;
+        }
         angle.x -= Input.GetAxis("Mouse Y");
-        if (angle.x <= primary_angle.x - 20f)
+        if (angle.x <= primary_angle.x - rotationLimitY)
         {
-            angle.x = primary_angle.x - 20f;
+            angle.x = primary_angle.x - rotationLimitY;
         }
-        if (angle.x >= primary_angle.x + 20f)
+        if (angle.x >= primary_angle.x + rotationLimitY)
         {
-            angle.x = primary_angle.x + 20f;
+            angle.x = primary_angle.x + rotationLimitY;
         }
-        // マウスの移動量
-        float mouseInputX = Input.GetAxis("Mouse X");
         // targetの位置のY軸を中心に、回転（公転）する
-        transform.RotateAround(targetPos, Vector3.up,mouseInputX * Time.deltaTime * mouseXSpeed);
+        this.transform.transform.localRotation = new Quaternion(0, angle.y * Time.deltaTime * mouseXSpeed, 0,0);
         
         // カメラの垂直移動
         transform.RotateAround(this.transform.position, transform.right, angle.x * Time.deltaTime * mouseYSpeed);

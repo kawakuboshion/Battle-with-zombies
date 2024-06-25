@@ -28,12 +28,15 @@ namespace GameSystem
 
         private IEnumerator spawnEnemy()
         {
-            center = Player.transform.position;
-            x = Mathf.Sin(theta);
-            z = Mathf.Cos(theta);
-            yield return new WaitForSeconds(spawnWaitTime * 0.1f);
-            Instantiate(Enemy, center + new Vector3(x * Random.Range(2, 10), 0.1f, z * Random.Range(2, 10)), Quaternion.identity);
-            theta += (2f * Mathf.PI / 360) * 5f;
+            for(; ; )
+            {
+                yield return new WaitForSeconds(spawnWaitTime);
+                center = Player.transform.position;
+                x = Mathf.Sin(theta);
+                z = Mathf.Cos(theta);
+                Instantiate(Enemy, center + new Vector3(x * Random.Range(2, 10), 0.1f, z * Random.Range(2, 10)), Quaternion.identity);
+                theta += (2f * Mathf.PI / 360) * 5f;
+            }
         }
     }
 }
