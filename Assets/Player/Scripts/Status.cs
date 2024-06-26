@@ -23,5 +23,10 @@ namespace Player
         {
 
         }
+
+        public void SetHp_var()
+        {
+            Hp_ver.value = Hp;
+        }
     }
 }

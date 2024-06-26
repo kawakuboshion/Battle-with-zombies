@@ -9,7 +9,15 @@ PrefabInstance:
     m_Modifications:
     - target: {fileID: 498253721416304272, guid: f6ab88624626d1249bd73bcb4a1c7d59, type: 3}
       propertyPath: m_Name
-      value: LittleGhost_LP (1)
+      value: LittleGhost_LP (1) Variant
+      objectReference: {fileID: 0}
+    - target: {fileID: 498253721416304279, guid: f6ab88624626d1249bd73bcb4a1c7d59, type: 3}
+      propertyPath: m_Center.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 498253721416304279, guid: f6ab88624626d1249bd73bcb4a1c7d59, type: 3}
+      propertyPath: m_IsTrigger
+      value: 1
       objectReference: {fileID: 0}
     - target: {fileID: 498253721416304299, guid: f6ab88624626d1249bd73bcb4a1c7d59, type: 3}
       propertyPath: m_RootOrder
@@ -29,7 +37,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 498253721416304299, guid: f6ab88624626d1249bd73bcb4a1c7d59, type: 3}
       propertyPath: m_LocalPosition.x
-      value: 19.9515
+      value: 19.926199
       objectReference: {fileID: 0}
     - target: {fileID: 498253721416304299, guid: f6ab88624626d1249bd73bcb4a1c7d59, type: 3}
       propertyPath: m_LocalPosition.y
@@ -37,7 +45,7 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 498253721416304299, guid: f6ab88624626d1249bd73bcb4a1c7d59, type: 3}
       propertyPath: m_LocalPosition.z
-      value: -12.7759
+      value: -13.404599
       objectReference: {fileID: 0}
     - target: {fileID: 498253721416304299, guid: f6ab88624626d1249bd73bcb4a1c7d59, type: 3}
       propertyPath: m_LocalRotation.w
@@ -108,3 +116,29 @@ NavMeshAgent:
   m_BaseOffset: 0
   m_WalkableMask: 4294967295
   m_ObstacleAvoidanceType: 4
+--- !u!114 &1648030080091374442
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2420455339865569673}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 71c60bbb0541d30429dddbf17d3788bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Hp: 10
+  Power: 10
+--- !u!114 &1206206074967017832
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 2420455339865569673}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: da38f98dbe5525f47b90c822ae72f4bf, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

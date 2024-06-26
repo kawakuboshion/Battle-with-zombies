@@ -26,7 +26,25 @@ namespace Enemy
         {
             if(other.gameObject.tag == "Player")
             {
-                other.gameObject.ToShortString();
+                StartCoroutine(EnemyAttack(other));
+            }
+        }
+
+        private void OnTriggerExit(Collider other)
+        {
+            if (other.gameObject.tag == "Player")
+            {
+                StopCoroutine(EnemyAttack(other));
+            }
+        }
+        IEnumerator EnemyAttack(Collider other)
+        {
+            while (true)
+            {
+                yield return new WaitForSeconds(2);
+                Player.Status status = other.gameObject.GetOrAddComponent<Player.Status>();
+                status.Hp -= EnemyStatus.Power;
+                status.SetHp_var();
             }
         }
     }
