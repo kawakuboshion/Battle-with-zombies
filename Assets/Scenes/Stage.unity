@@ -13773,6 +13773,19 @@ GameObject:
   m_CorrespondingSourceObject: {fileID: 1964824974773033863, guid: 2c9fc91bfd1555c40b46bc4f94b3bd85, type: 3}
   m_PrefabInstance: {fileID: 2231974390313222193}
   m_PrefabAsset: {fileID: 0}
+--- !u!114 &732214597
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 732214590}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: de43dbfe45f189549ba59376ea6fb527, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  Weapon: {fileID: 2449967754547694926, guid: 8ab1c6005a6688e4c9d8f7adc316e534, type: 3}
 --- !u!1001 &736235714
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -17951,7 +17964,7 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
-  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalRotation: {x: -0, y: -0, z: -0, w: 1}
   m_LocalPosition: {x: 19.4632, y: 3.429, z: 1.2093999}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0

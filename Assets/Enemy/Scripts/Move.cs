@@ -9,11 +9,13 @@ namespace Enemy
     {
         private GameObject Player;
         private NavMeshAgent agent;
+        private Status status;
         // Start is called before the first frame update
         void Start()
         {
             Player = GameObject.Find("Player");
             agent = GetComponent<NavMeshAgent>();
+            status = GetComponent<Status>();
         }
 
         // Update is called once per frame
@@ -24,6 +26,10 @@ namespace Enemy
                 Destroy(this.gameObject);
             }
             agent.destination = Player.transform.position;
+            if(status.Hp <= 0)
+            {
+                Destroy(this.gameObject);
+            }
         }
     }
 }

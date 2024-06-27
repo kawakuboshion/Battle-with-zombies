@@ -9,6 +9,7 @@ namespace Player
     {
         public float Hp_Max;
         public float Hp;
+        public float Power = 10;
         [SerializeField] Slider Hp_ver;
         // Start is called before the first frame update
         void Start()
