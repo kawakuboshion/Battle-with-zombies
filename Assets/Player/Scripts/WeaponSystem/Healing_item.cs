@@ -27,6 +27,7 @@ namespace Player
         {
             Enemy.Status status = other.gameObject.GetOrAddComponent<Enemy.Status>();
             status.Hp -= PlayerStatus.Power;
+            Destroy(this.gameObject);
         }
     }
 }
