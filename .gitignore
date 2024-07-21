@@ -70,3 +70,526 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+Assets/AllSkyFree.meta
+Assets/Hovl Studio.meta
+Assets/AllSkyFree/_AllSkyFree_Documentation.pdf
+Assets/AllSkyFree/_AllSkyFree_Documentation.pdf.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment.meta
+Assets/AllSkyFree/Cartoon Base BlueSky.meta
+Assets/AllSkyFree/Cartoon Base NightSky.meta
+Assets/AllSkyFree/Cold Night.meta
+Assets/AllSkyFree/Cold Sunset.meta
+Assets/AllSkyFree/Deep Dusk.meta
+Assets/AllSkyFree/Epic_BlueSunset.meta
+Assets/AllSkyFree/Epic_GloriousPink.meta
+Assets/AllSkyFree/Night MoonBurst.meta
+Assets/AllSkyFree/Overcast Low.meta
+Assets/AllSkyFree/Space_AnotherPlanet.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AdditiveSprite.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AdditiveSprite.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSky_DemoEnvironment.fbx
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSky_DemoEnvironment.fbx.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSky_DemoEnvironment_Center.fbx
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSky_DemoEnvironment_Center.fbx.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSky_DemoEnvironment_Light.fbx
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSky_DemoEnvironment_Light.fbx.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSky_DemoEnvironment02.fbx
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSky_DemoEnvironment02.fbx.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSkyFreeDemoEnvironment.prefab
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/AllSkyFreeDemoEnvironment.prefab.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Moon Glare.flare
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Moon Glare.flare.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/MoonGlow.prefab
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/MoonGlow.prefab.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Mountain Glare.flare
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Mountain Glare.flare.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Sun Glare.flare
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Sun Glare.flare.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/SunGlare.psd
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/SunGlare.psd.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/SunGlow.prefab
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/SunGlow.prefab.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_Building.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_Building.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Blue.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Blue.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Gold.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Gold.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Red.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_Flag_Red.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_FlagGreen.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_FlagGreen.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_Landscape.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_Landscape.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_LightIllum.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_LightIllum.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_LightMetal.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_LightMetal.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_MountainGlow.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_MountainGlow.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_Rock.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_Rock.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_SphereSkyReflect.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_SphereSkyReflect.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_TreeLeaves.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_TreeLeaves.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_TreeTrunk.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/AllSkyDemoEnv_TreeTrunk.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/Landscape.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/Landscape.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/rock.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/rock.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/TreeLeaves.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/TreeLeaves.mat.meta
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/TreeTrunk.mat
+Assets/AllSkyFree/_AllSkyFreeDemoEnvironment/Materials/TreeTrunk.mat.meta
+Assets/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing Equirect.mat
+Assets/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing Equirect.mat.meta
+Assets/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing.mat
+Assets/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing.mat.meta
+Assets/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing.unity
+Assets/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_Nothing.unity.meta
+Assets/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_NothingSettings.lighting
+Assets/AllSkyFree/Cartoon Base BlueSky/Day_BlueSky_NothingSettings.lighting.meta
+Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Equirect.png
+Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Equirect.png.meta
+Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_0_Front+Z.png
+Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_0_Front+Z.png.meta
+Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_1_Back-Z.png
+Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_1_Back-Z.png.meta
+Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_2_Left+X.png
+Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_2_Left+X.png.meta
+Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_3_Right-X.png
+Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_3_Right-X.png.meta
+Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_4_Up+Y.png
+Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_4_Up+Y.png.meta
+Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_5_Down-Y.png
+Assets/AllSkyFree/Cartoon Base BlueSky/Sky_Day_BlueSky_Nothing_Cam_5_Down-Y.png.meta
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky Equirect.mat
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky Equirect.mat.meta
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky Equirect.png
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky Equirect.png.meta
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky.mat
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky.mat.meta
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky.unity
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky.unity.meta
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_0_Front+Z.png
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_0_Front+Z.png.meta
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_1_Back-Z.png
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_1_Back-Z.png.meta
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_2_Left+X.png
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_2_Left+X.png.meta
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_3_Right-X.png
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_3_Right-X.png.meta
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_4_Up+Y.png
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_4_Up+Y.png.meta
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_5_Down-Y.png
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSky_Cam_5_Down-Y.png.meta
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSkySettings.lighting
+Assets/AllSkyFree/Cartoon Base NightSky/Cartoon Base NightSkySettings.lighting.meta
+Assets/AllSkyFree/Cold Night/Cold Night Equirect.mat
+Assets/AllSkyFree/Cold Night/Cold Night Equirect.mat.meta
+Assets/AllSkyFree/Cold Night/Cold Night Equirect.png
+Assets/AllSkyFree/Cold Night/Cold Night Equirect.png.meta
+Assets/AllSkyFree/Cold Night/Cold Night.mat
+Assets/AllSkyFree/Cold Night/Cold Night.mat.meta
+Assets/AllSkyFree/Cold Night/Cold Night.unity
+Assets/AllSkyFree/Cold Night/Cold Night.unity.meta
+Assets/AllSkyFree/Cold Night/Cold Night__Cam_0_Front+Z.png
+Assets/AllSkyFree/Cold Night/Cold Night__Cam_0_Front+Z.png.meta
+Assets/AllSkyFree/Cold Night/Cold Night__Cam_1_Back-Z.png
+Assets/AllSkyFree/Cold Night/Cold Night__Cam_1_Back-Z.png.meta
+Assets/AllSkyFree/Cold Night/Cold Night__Cam_2_Left+X.png
+Assets/AllSkyFree/Cold Night/Cold Night__Cam_2_Left+X.png.meta
+Assets/AllSkyFree/Cold Night/Cold Night__Cam_3_Right-X.png
+Assets/AllSkyFree/Cold Night/Cold Night__Cam_3_Right-X.png.meta
+Assets/AllSkyFree/Cold Night/Cold Night__Cam_4_Up+Y.png
+Assets/AllSkyFree/Cold Night/Cold Night__Cam_4_Up+Y.png.meta
+Assets/AllSkyFree/Cold Night/Cold Night__Cam_5_Down-Y.png
+Assets/AllSkyFree/Cold Night/Cold Night__Cam_5_Down-Y.png.meta
+Assets/AllSkyFree/Cold Night/Cold NightSettings.lighting
+Assets/AllSkyFree/Cold Night/Cold NightSettings.lighting.meta
+Assets/AllSkyFree/Cold Sunset/Cold Sunset Equirect.mat
+Assets/AllSkyFree/Cold Sunset/Cold Sunset Equirect.mat.meta
+Assets/AllSkyFree/Cold Sunset/Cold Sunset Equirect.png
+Assets/AllSkyFree/Cold Sunset/Cold Sunset Equirect.png.meta
+Assets/AllSkyFree/Cold Sunset/Cold Sunset.mat
+Assets/AllSkyFree/Cold Sunset/Cold Sunset.mat.meta
+Assets/AllSkyFree/Cold Sunset/Cold Sunset.unity
+Assets/AllSkyFree/Cold Sunset/Cold Sunset.unity.meta
+Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_0_Front+Z.png
+Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_0_Front+Z.png.meta
+Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_1_Back-Z.png
+Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_1_Back-Z.png.meta
+Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_2_Left+X.png
+Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_2_Left+X.png.meta
+Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_3_Right-X.png
+Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_3_Right-X.png.meta
+Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_4_Up+Y.png
+Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_4_Up+Y.png.meta
+Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_5_Down-Y.png
+Assets/AllSkyFree/Cold Sunset/Cold Sunset__Cam_5_Down-Y.png.meta
+Assets/AllSkyFree/Cold Sunset/Cold SunsetSettings.lighting
+Assets/AllSkyFree/Cold Sunset/Cold SunsetSettings.lighting.meta
+Assets/AllSkyFree/Deep Dusk/Deep Dusk Equirect.mat
+Assets/AllSkyFree/Deep Dusk/Deep Dusk Equirect.mat.meta
+Assets/AllSkyFree/Deep Dusk/Deep Dusk Equirect.png
+Assets/AllSkyFree/Deep Dusk/Deep Dusk Equirect.png.meta
+Assets/AllSkyFree/Deep Dusk/Deep Dusk.mat
+Assets/AllSkyFree/Deep Dusk/Deep Dusk.mat.meta
+Assets/AllSkyFree/Deep Dusk/Deep Dusk.unity
+Assets/AllSkyFree/Deep Dusk/Deep Dusk.unity.meta
+Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_0_Front+Z.png
+Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_0_Front+Z.png.meta
+Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_1_Back-Z.png
+Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_1_Back-Z.png.meta
+Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_2_Left+X.png
+Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_2_Left+X.png.meta
+Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_3_Right-X.png
+Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_3_Right-X.png.meta
+Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_4_Up+Y.png
+Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_4_Up+Y.png.meta
+Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_5_Down-Y.png
+Assets/AllSkyFree/Deep Dusk/Deep Dusk__Cam_5_Down-Y.png.meta
+Assets/AllSkyFree/Deep Dusk/Deep DuskSettings.lighting
+Assets/AllSkyFree/Deep Dusk/Deep DuskSettings.lighting.meta
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset Equirect.mat
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset Equirect.mat.meta
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset.mat
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset.mat.meta
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset.unity
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset.unity.meta
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_0_Front+Z.png
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_0_Front+Z.png.meta
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_1_Back-Z.png
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_1_Back-Z.png.meta
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_2_Left+X.png
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_2_Left+X.png.meta
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_3_Right-X.png
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_3_Right-X.png.meta
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_4_Up+Y.png
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_4_Up+Y.png.meta
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_5_Down-Y.png
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_Cam_5_Down-Y.png.meta
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_EquiRect_flat.png
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunset_EquiRect_flat.png.meta
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunsetSettings.lighting
+Assets/AllSkyFree/Epic_BlueSunset/Epic_BlueSunsetSettings.lighting.meta
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink Equirect.mat
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink Equirect.mat.meta
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink.mat
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink.mat.meta
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink.unity
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink.unity.meta
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_0_Front+Z.png
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_0_Front+Z.png.meta
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_1_Back-Z.png
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_1_Back-Z.png.meta
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_2_Left+X.png
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_2_Left+X.png.meta
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_3_Right-X.png
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_3_Right-X.png.meta
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_4_Up+Y.png
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_4_Up+Y.png.meta
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_5_Down-Y.png
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_Cam_5_Down-Y.png.meta
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_EquiRect.png
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPink_EquiRect.png.meta
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPinkSettings.lighting
+Assets/AllSkyFree/Epic_GloriousPink/Epic_GloriousPinkSettings.lighting.meta
+Assets/AllSkyFree/Night MoonBurst/AllSky_Night_MoonBurst Equirect.mat
+Assets/AllSkyFree/Night MoonBurst/AllSky_Night_MoonBurst Equirect.mat.meta
+Assets/AllSkyFree/Night MoonBurst/AllSky_Night_MoonBurst Equirect.png
+Assets/AllSkyFree/Night MoonBurst/AllSky_Night_MoonBurst Equirect.png.meta
+Assets/AllSkyFree/Night MoonBurst/Night Moon Burst.mat
+Assets/AllSkyFree/Night MoonBurst/Night Moon Burst.mat.meta
+Assets/AllSkyFree/Night MoonBurst/Night Moon Burst.unity
+Assets/AllSkyFree/Night MoonBurst/Night Moon Burst.unity.meta
+Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_0_Front+Z.png
+Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_0_Front+Z.png.meta
+Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_1_Back-Z.png
+Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_1_Back-Z.png.meta
+Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_2_Left+X.png
+Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_2_Left+X.png.meta
+Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_3_Right-X.png
+Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_3_Right-X.png.meta
+Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_4_Up+Y.png
+Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_4_Up+Y.png.meta
+Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_5_Down-Y.png
+Assets/AllSkyFree/Night MoonBurst/Night Moon Burst_Cam_5_Down-Y.png.meta
+Assets/AllSkyFree/Night MoonBurst/Night Moon BurstSettings.lighting
+Assets/AllSkyFree/Night MoonBurst/Night Moon BurstSettings.lighting.meta
+Assets/AllSkyFree/Overcast Low/AllSky_Overcast4_Low Equirect.mat
+Assets/AllSkyFree/Overcast Low/AllSky_Overcast4_Low Equirect.mat.meta
+Assets/AllSkyFree/Overcast Low/AllSky_Overcast4_Low.mat
+Assets/AllSkyFree/Overcast Low/AllSky_Overcast4_Low.mat.meta
+Assets/AllSkyFree/Overcast Low/AllSky_Overcast4_Low.png
+Assets/AllSkyFree/Overcast Low/AllSky_Overcast4_Low.png.meta
+Assets/AllSkyFree/Overcast Low/AllSky_Overcast4_Low.unity
+Assets/AllSkyFree/Overcast Low/AllSky_Overcast4_Low.unity.meta
+Assets/AllSkyFree/Overcast Low/AllSky_Overcast4_LowSettings.lighting
+Assets/AllSkyFree/Overcast Low/AllSky_Overcast4_LowSettings.lighting.meta
+Assets/AllSkyFree/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_0_Front+Z.png
+Assets/AllSkyFree/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_0_Front+Z.png.meta
+Assets/AllSkyFree/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_1_Back-Z.png
+Assets/AllSkyFree/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_1_Back-Z.png.meta
+Assets/AllSkyFree/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_2_Left+X.png
+Assets/AllSkyFree/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_2_Left+X.png.meta
+Assets/AllSkyFree/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_3_Right-X.png
+Assets/AllSkyFree/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_3_Right-X.png.meta
+Assets/AllSkyFree/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_4_Up+Y.png
+Assets/AllSkyFree/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_4_Up+Y.png.meta
+Assets/AllSkyFree/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_5_Down-Y.png
+Assets/AllSkyFree/Overcast Low/Sky_AllSky_Overcast4_Low_Cam_5_Down-Y.png.meta
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet Equirect.mat
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet Equirect.mat.meta
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet Equirect.png
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet Equirect.png.meta
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet.mat
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet.mat.meta
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet.unity
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet.unity.meta
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_0_Front+Z.png
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_0_Front+Z.png.meta
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_1_Back-Z.png
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_1_Back-Z.png.meta
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_2_Left+X.png
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_2_Left+X.png.meta
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_3_Right-X.png
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_3_Right-X.png.meta
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_4_Up+Y.png
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_4_Up+Y.png.meta
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_5_Down-Y.png
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanet_Cam_5_Down-Y.png.meta
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanetSettings.lighting
+Assets/AllSkyFree/Space_AnotherPlanet/AllSky_Space_AnotherPlanetSettings.lighting.meta
+Assets/GameSystem/Canvas.prefab
+Assets/GameSystem/Canvas.prefab.meta
+Assets/Hovl Studio/Magic effects pack.meta
+Assets/Hovl Studio/Resources.meta
+Assets/Hovl Studio/Magic effects pack/Demo scene.meta
+Assets/Hovl Studio/Magic effects pack/Materials.meta
+Assets/Hovl Studio/Magic effects pack/Models.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs.meta
+Assets/Hovl Studio/Magic effects pack/Textures.meta
+Assets/Hovl Studio/Magic effects pack/Demo scene/Demo fire 1Settings.lighting
+Assets/Hovl Studio/Magic effects pack/Demo scene/Demo fire 1Settings.lighting.meta
+Assets/Hovl Studio/Magic effects pack/Demo scene/LightingData.asset
+Assets/Hovl Studio/Magic effects pack/Demo scene/LightingData.asset.meta
+Assets/Hovl Studio/Magic effects pack/Demo scene/Lightmap-0_comp_dir.png
+Assets/Hovl Studio/Magic effects pack/Demo scene/Lightmap-0_comp_dir.png.meta
+Assets/Hovl Studio/Magic effects pack/Demo scene/Lightmap-0_comp_light.exr
+Assets/Hovl Studio/Magic effects pack/Demo scene/Lightmap-0_comp_light.exr.meta
+Assets/Hovl Studio/Magic effects pack/Demo scene/Magic effects demo.unity
+Assets/Hovl Studio/Magic effects pack/Demo scene/Magic effects demo.unity.meta
+Assets/Hovl Studio/Magic effects pack/Demo scene/Magic effects second demo.unity
+Assets/Hovl Studio/Magic effects pack/Demo scene/Magic effects second demo.unity.meta
+Assets/Hovl Studio/Magic effects pack/Demo scene/Readme.txt
+Assets/Hovl Studio/Magic effects pack/Demo scene/Readme.txt.meta
+Assets/Hovl Studio/Magic effects pack/Demo scene/ReflectionProbe-0.exr
+Assets/Hovl Studio/Magic effects pack/Demo scene/ReflectionProbe-0.exr.meta
+Assets/Hovl Studio/Magic effects pack/Demo scene/ReflectionProbe-1.exr
+Assets/Hovl Studio/Magic effects pack/Demo scene/ReflectionProbe-1.exr.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Additive.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Additive.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Arrow1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Arrow1.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Circle.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Circle.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Circle2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Circle2.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Crack.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Crack.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/DistortionPoint.mat
+Assets/Hovl Studio/Magic effects pack/Materials/DistortionPoint.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Electro.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Electro.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Flare.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Flare.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Flash.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Flash.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Flash2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Flash2.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Floor3.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Floor3.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Gradient.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Gradient.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Gradient2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Gradient2.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Heart.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Heart.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/MagicCircle.mat
+Assets/Hovl Studio/Magic effects pack/Materials/MagicCircle.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/MagicCircle2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/MagicCircle2.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Mask1.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Mask1.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Point.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Point.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Slash.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Slash.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Smoke26.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Smoke26.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Snowflake.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Snowflake.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Star.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Star.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Stone.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Stone.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/TechCircle.mat
+Assets/Hovl Studio/Magic effects pack/Materials/TechCircle.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/TechCircle2.mat
+Assets/Hovl Studio/Magic effects pack/Materials/TechCircle2.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/Trail67.mat
+Assets/Hovl Studio/Magic effects pack/Materials/Trail67.mat.meta
+Assets/Hovl Studio/Magic effects pack/Materials/VFXatlas.psd
+Assets/Hovl Studio/Magic effects pack/Materials/VFXatlas.psd.meta
+Assets/Hovl Studio/Magic effects pack/Models/Cylinder.fbx
+Assets/Hovl Studio/Magic effects pack/Models/Cylinder.fbx.meta
+Assets/Hovl Studio/Magic effects pack/Models/Slash.fbx
+Assets/Hovl Studio/Magic effects pack/Models/Slash.fbx.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/AoE effects.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Character auras.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Magic circles.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Magic shields.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Portals.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Slash effects.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/AoE effects/AoE slash blue.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/AoE effects/AoE slash blue.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/AoE effects/AoE slash green.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/AoE effects/AoE slash green.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/AoE effects/AoE slash orange.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/AoE effects/AoE slash orange.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/AoE effects/Laser AOE.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/AoE effects/Laser AOE.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/AoE effects/Meteors AOE.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/AoE effects/Meteors AOE.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/AoE effects/Red energy explosion.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/AoE effects/Red energy explosion.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/AoE effects/Snow AOE.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/AoE effects/Snow AOE.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Character auras/Buff.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Character auras/Buff.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Character auras/Debuff.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Character auras/Debuff.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Character auras/Healing.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Character auras/Healing.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Character auras/Lightning aura.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Character auras/Lightning aura.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Character auras/Love aura.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Character auras/Love aura.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Character auras/Star aura.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Character auras/Star aura.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions/Electro hit.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions/Electro hit.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions/Explosion.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions/Explosion.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions/Green hit.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions/Green hit.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions/Holy hit.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions/Holy hit.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions/Love hit.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions/Love hit.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions/Snow hit.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions/Snow hit.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions/Star hit.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions/Star hit.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions/Stones hit.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Hits and explosions/Stones hit.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Magic circles/Freeze circle.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Magic circles/Freeze circle.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Magic circles/Healing circle.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Magic circles/Healing circle.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Magic circles/Magic circle 2.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Magic circles/Magic circle 2.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Magic circles/Magic circle.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Magic circles/Magic circle.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Magic shields/Magic shield blue.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Magic shields/Magic shield blue.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Magic shields/Magic shield pink.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Magic shields/Magic shield pink.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Magic shields/Magic shield yellow.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Magic shields/Magic shield yellow.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Portals/Portal blue.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Portals/Portal blue.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Portals/Portal green.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Portals/Portal green.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Portals/Portal red.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Portals/Portal red.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Portals/Portal yellow.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Portals/Portal yellow.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Slash effects/Charge slash blue.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Slash effects/Charge slash blue.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Slash effects/Charge slash purple.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Slash effects/Charge slash purple.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Slash effects/Charge slash red.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Slash effects/Charge slash red.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Slash effects/Electro slash.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Slash effects/Electro slash.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Slash effects/Snow slash.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Slash effects/Snow slash.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Prefabs/Slash effects/Stone slash.prefab
+Assets/Hovl Studio/Magic effects pack/Prefabs/Slash effects/Stone slash.prefab.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Arrow1.png
+Assets/Hovl Studio/Magic effects pack/Textures/Arrow1.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Circle.png
+Assets/Hovl Studio/Magic effects pack/Textures/Circle.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Circle2.png
+Assets/Hovl Studio/Magic effects pack/Textures/Circle2.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Concrete slab.png
+Assets/Hovl Studio/Magic effects pack/Textures/Concrete slab.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Concrete slab_Height.png
+Assets/Hovl Studio/Magic effects pack/Textures/Concrete slab_Height.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Concrete slab_MetallicSmoothness.png
+Assets/Hovl Studio/Magic effects pack/Textures/Concrete slab_MetallicSmoothness.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Concrete slab_Normal.png
+Assets/Hovl Studio/Magic effects pack/Textures/Concrete slab_Normal.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Crack.png
+Assets/Hovl Studio/Magic effects pack/Textures/Crack.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Electro.png
+Assets/Hovl Studio/Magic effects pack/Textures/Electro.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Flare.png
+Assets/Hovl Studio/Magic effects pack/Textures/Flare.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Flash.png
+Assets/Hovl Studio/Magic effects pack/Textures/Flash.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Flash2.png
+Assets/Hovl Studio/Magic effects pack/Textures/Flash2.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Gradient.png
+Assets/Hovl Studio/Magic effects pack/Textures/Gradient.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Gradient2.png
+Assets/Hovl Studio/Magic effects pack/Textures/Gradient2.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Heart.png
+Assets/Hovl Studio/Magic effects pack/Textures/Heart.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/MagicCircle.png
+Assets/Hovl Studio/Magic effects pack/Textures/MagicCircle.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/MagicCircle2.png
+Assets/Hovl Studio/Magic effects pack/Textures/MagicCircle2.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Mask1.png
+Assets/Hovl Studio/Magic effects pack/Textures/Mask1.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Point1.png
+Assets/Hovl Studio/Magic effects pack/Textures/Point1.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Point1n.png
+Assets/Hovl Studio/Magic effects pack/Textures/Point1n.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Slash.png
+Assets/Hovl Studio/Magic effects pack/Textures/Slash.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Smoke26.png
+Assets/Hovl Studio/Magic effects pack/Textures/Smoke26.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Snowflake.png
+Assets/Hovl Studio/Magic effects pack/Textures/Snowflake.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Splat.png
+Assets/Hovl Studio/Magic effects pack/Textures/Splat.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Star.png
+Assets/Hovl Studio/Magic effects pack/Textures/Star.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Stone.png
+Assets/Hovl Studio/Magic effects pack/Textures/Stone.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/TechCircle.png
+Assets/Hovl Studio/Magic effects pack/Textures/TechCircle.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/TechCircle2.png
+Assets/Hovl Studio/Magic effects pack/Textures/TechCircle2.png.meta
+Assets/Hovl Studio/Magic effects pack/Textures/Trail67.png
+Assets/Hovl Studio/Magic effects pack/Textures/Trail67.png.meta
+Assets/Hovl Studio/Resources/Settings.meta
+Assets/Hovl Studio/Resources/Settings/PP low.asset
+Assets/Hovl Studio/Resources/Settings/PP low.asset.meta

@@ -4,9 +4,6 @@ using UnityEngine;
 
 public class CameraRotate : MonoBehaviour
 {
-    float x, z;
-    float speed = 0.1f;
-
     public GameObject cam;
     Quaternion cameraRot, characterRot;
     float Xsensityvity = 3f, Ysensityvity = 3f;
@@ -14,7 +11,7 @@ public class CameraRotate : MonoBehaviour
     bool cursorLock = true;
 
     //•Ï”‚ÌéŒ¾(Šp“x‚Ì§ŒÀ—p)
-    float minX = -90f, maxX = 90f;
+    float minX = -70f, maxX = 70f;
 
     // Start is called before the first frame update
     void Start()
@@ -83,6 +80,4 @@ public class CameraRotate : MonoBehaviour
 
         return q;
     }
-
-
 }

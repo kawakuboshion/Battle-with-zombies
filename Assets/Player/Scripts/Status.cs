@@ -15,8 +15,8 @@ namespace Player
         void Start()
         {
             Hp_ver.maxValue = Hp_Max;
-            Hp_ver.value = Hp;
             Hp = Hp_Max;
+            Hp_ver.value = Hp;
         }
 
         // Update is called once per frame
