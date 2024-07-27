@@ -1,6 +1,7 @@
 using System.Collections;
 using System.Collections.Generic;
 using Unity.VisualScripting;
+using UnityEditor;
 using UnityEngine;
 
 namespace Player
@@ -25,8 +26,9 @@ namespace Player
 
         private void OnTriggerEnter(Collider other)
         {
+            var target = other ? GetComponent<IDamagable>() : null;
             Enemy.Status status = other.gameObject.GetOrAddComponent<Enemy.Status>();
-            status.Hp -= PlayerStatus.Power;
+            status.AddDamage(PlayerStatus.Power);
             Destroy(this.gameObject);
         }
     }

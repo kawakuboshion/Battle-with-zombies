@@ -28,7 +28,6 @@ namespace Player
                 Rigidbody.velocity = cameraForward * power;
             }
         }
-
     }
 }
 

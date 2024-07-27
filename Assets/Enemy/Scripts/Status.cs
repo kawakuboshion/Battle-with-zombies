@@ -4,20 +4,14 @@ using UnityEngine;
 
 namespace Enemy 
 {
-    public class Status : MonoBehaviour
+    public class Status : MonoBehaviour,IDamagable
     {
         public float Hp;
         public float Power;
-        // Start is called before the first frame update
-        void Start()
+
+        public void AddDamage(float Damage)
         {
-
-        }
-
-        // Update is called once per frame
-        void Update()
-        {
-
+            Hp -= Damage;
         }
     }
 }
