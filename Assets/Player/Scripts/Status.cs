@@ -5,10 +5,10 @@ using UnityEngine.UI;
 
 namespace Player
 {
-    public class Status : MonoBehaviour
+    public class Status : MonoBehaviour,SetHp_var
     {
         public float Hp_Max;
-        public float Hp;
+        public static float Hp;
         public float Power = 10;
         [SerializeField] Slider Hp_ver;
         // Start is called before the first frame update
@@ -25,7 +25,7 @@ namespace Player
 
         }
 
-        public void SetHp_var()
+        public void SetHp()
         {
             Hp_ver.value = Hp;
         }

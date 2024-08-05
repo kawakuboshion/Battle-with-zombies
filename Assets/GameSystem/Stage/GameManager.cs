@@ -1,3 +1,4 @@
+using Player;
 using System.Collections;
 using System.Collections.Generic;
 using TMPro;
@@ -16,16 +17,18 @@ namespace Manager
         private float z = 0;
         private float theta = 0;
         private int CastedLimitTime = 0;
+        private Status PlayerStatus;
         public Vector3 center;
         public int spawnWaitTime = 0;
-        public float LimitTime = 300;
-        public int KilledEnemy = 0;
+        public static float LimitTime = 300;
+        public static int KilledEnemy = 0;
         // Start is called before the first frame update
         void Start()
         {
             StartCoroutine(spawnEnemy());
             SetKilledEnemy();
             Time_text.text = LimitTime.ToString();
+            PlayerStatus = Player.GetComponent<Status>();
         }
 
         // Update is called once per frame
@@ -34,8 +37,9 @@ namespace Manager
             LimitTime -= Time.deltaTime;
             CastedLimitTime = (int)LimitTime;
             Time_text.text = CastedLimitTime.ToString();
-            if(LimitTime < 0)
+            if(LimitTime <= 0 || Status.Hp <= 0)
             {
+                StopCoroutine(spawnEnemy());
                 SceneManager.LoadScene("Result");
             }
         }

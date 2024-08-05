@@ -10,10 +10,12 @@ namespace Enemy
     public class Attack : MonoBehaviour
     {
         Status EnemyStatus;
+        Player.Status PlayerStatus;
         // Start is called before the first frame update
         void Start()
         {
             EnemyStatus = GetComponent<Status>();
+            PlayerStatus = GetComponent<Player.Status>();
         }
 
         // Update is called once per frame
@@ -43,8 +45,8 @@ namespace Enemy
             {
                 yield return new WaitForSeconds(2);
                 Player.Status status = other.gameObject.GetOrAddComponent<Player.Status>();
-                status.Hp -= EnemyStatus.Power;
-                status.SetHp_var();
+                Player.Status.Hp -= EnemyStatus.Power;
+                status.SetHp();
             }
         }
     }

@@ -27,17 +27,20 @@ namespace Enemy
         {
             if (this.gameObject.transform.position.y <= -3)
             {
-                Destroy(this.gameObject);
-                manager.KilledEnemy++;
-                manager.SetKilledEnemy();
+                KilledEnemy();
             }
             agent.destination = Player.transform.position;
             if(status.Hp <= 0)
             {
-                Destroy(this.gameObject);
-                manager.KilledEnemy++;
-                manager.SetKilledEnemy();
+                KilledEnemy();
             }
+        }
+
+        private void KilledEnemy()
+        {
+            Destroy(this.gameObject);
+            GameManager.KilledEnemy++;
+            manager.SetKilledEnemy();
         }
     }
 }

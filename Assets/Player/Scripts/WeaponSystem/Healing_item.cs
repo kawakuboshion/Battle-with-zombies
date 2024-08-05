@@ -26,9 +26,16 @@ namespace Player
 
         private void OnTriggerEnter(Collider other)
         {
-            var target = other ? GetComponent<IDamagable>() : null;
-            Enemy.Status status = other.gameObject.GetOrAddComponent<Enemy.Status>();
-            status.AddDamage(PlayerStatus.Power);
+            var target = other.GetComponent<IDamagable>();
+            if (target != null)
+            {
+                target.AddDamage(PlayerStatus.Power);
+            }
+            var setHp = other.GetComponent <SetHp_var>();
+            if (setHp != null)
+            {
+                setHp.SetHp();
+            }
             Destroy(this.gameObject);
         }
     }
