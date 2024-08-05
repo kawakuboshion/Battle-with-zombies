@@ -547,6 +547,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   Enemy: {fileID: 2420455339865569673, guid: 8ae07edffc6f3d943ae8e646b3bb6459, type: 3}
+  CreateEnemy: {fileID: 7355284119128801931, guid: e351937bdad06db488d071d82a478d9d, type: 3}
   Player: {fileID: 1001393286}
   Time_text: {fileID: 870085319}
   KilledEnemy_text: {fileID: 1899059538}

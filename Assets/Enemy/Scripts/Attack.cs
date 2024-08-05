@@ -43,10 +43,11 @@ namespace Enemy
         {
             while (true)
             {
-                yield return new WaitForSeconds(2);
                 Player.Status status = other.gameObject.GetOrAddComponent<Player.Status>();
                 Player.Status.Hp -= EnemyStatus.Power;
                 status.SetHp();
+                yield return new WaitForSeconds(2);
+                
             }
         }
     }
